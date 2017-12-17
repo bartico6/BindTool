@@ -1,22 +1,31 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26228.9
+VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindTools", "BindTools.csproj", "{F875BFE4-86DA-494E-B2EB-1C628262CB18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{F875BFE4-86DA-494E-B2EB-1C628262CB18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F875BFE4-86DA-494E-B2EB-1C628262CB18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F875BFE4-86DA-494E-B2EB-1C628262CB18}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F875BFE4-86DA-494E-B2EB-1C628262CB18}.Debug|x86.Build.0 = Debug|Any CPU
 		{F875BFE4-86DA-494E-B2EB-1C628262CB18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F875BFE4-86DA-494E-B2EB-1C628262CB18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F875BFE4-86DA-494E-B2EB-1C628262CB18}.Release|x86.ActiveCfg = Release|Any CPU
+		{F875BFE4-86DA-494E-B2EB-1C628262CB18}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1B45E42-BA6E-4906-B5F3-13DA8B404FE4}
 	EndGlobalSection
 EndGlobal

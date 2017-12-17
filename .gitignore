@@ -1,5 +1,7 @@
 */bin/*
 */obj/*
+bin/*
+obj/*
 
 *.suo
 *.sdf
@@ -9,3 +11,5 @@
 *.mdb
 *.csproj.user
 .vs/
+
+References/*
